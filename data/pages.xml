@@ -1,0 +1,29 @@
+
+<pages preload="true">
+    <page id="1" shadow="true" source="content/vector/page1.swf" thumb="content/thumbs/page1.jpg"></page>
+    <page id="2" shadow="true" source="content/vector/page2.swf" thumb="content/thumbs/page2.jpg"></page>
+    <page id="3" shadow="true" source="content/vector/page3.swf" thumb="content/thumbs/page3.jpg"></page>
+    <page id="4" shadow="true" source="content/vector/page4.swf" thumb="content/thumbs/page4.jpg"></page>
+    <page id="5" shadow="true" source="content/vector/page5.swf" thumb="content/thumbs/page5.jpg"></page>
+    <page id="6" shadow="true" source="content/vector/page6.swf" thumb="content/thumbs/page6.jpg"></page>
+    <page id="7" shadow="true" source="content/vector/page7.swf" thumb="content/thumbs/page7.jpg"></page>
+    <page id="8" shadow="true" source="content/vector/page8.swf" thumb="content/thumbs/page8.jpg"></page>
+    <page id="9" shadow="true" source="content/vector/page9.swf" thumb="content/thumbs/page9.jpg"></page>
+    <page id="10" shadow="true" source="content/vector/page10.swf" thumb="content/thumbs/page10.jpg"></page>
+    <page id="11" shadow="true" source="content/vector/page11.swf" thumb="content/thumbs/page11.jpg"></page>
+    <page id="12" shadow="true" source="content/vector/page12.swf" thumb="content/thumbs/page12.jpg"></page>
+    <page id="13" shadow="true" source="content/vector/page13.swf" thumb="content/thumbs/page13.jpg"></page>
+    <page id="14" shadow="true" source="content/vector/page14.swf" thumb="content/thumbs/page14.jpg"></page>
+    <page id="15" shadow="true" source="content/vector/page15.swf" thumb="content/thumbs/page15.jpg"></page>
+    <page id="16" shadow="true" source="content/vector/page16.swf" thumb="content/thumbs/page16.jpg"></page>
+    <page id="17" shadow="true" source="content/vector/page17.swf" thumb="content/thumbs/page17.jpg"></page>
+    <page id="18" shadow="true" source="content/vector/page18.swf" thumb="content/thumbs/page18.jpg"></page>
+    <page id="19" shadow="true" source="content/vector/page19.swf" thumb="content/thumbs/page19.jpg"></page>
+    <page id="20" shadow="true" source="content/vector/page20.swf" thumb="content/thumbs/page20.jpg"></page>
+    <page id="21" shadow="true" source="content/vector/page21.swf" thumb="content/thumbs/page21.jpg"></page>
+    <page id="22" shadow="true" source="content/vector/page22.swf" thumb="content/thumbs/page22.jpg"></page>
+    <page id="23" shadow="true" source="content/vector/page23.swf" thumb="content/thumbs/page23.jpg"></page>
+    <page id="24" shadow="true" source="content/vector/page24.swf" thumb="content/thumbs/page24.jpg"></page>
+    <page id="25" shadow="true" source="content/vector/page25.swf" thumb="content/thumbs/page25.jpg"></page>
+    <page id="26" shadow="true" source="content/vector/page26.swf" thumb="content/thumbs/page26.jpg"></page>
+</pages>
